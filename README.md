@@ -1,6 +1,6 @@
 # Film-Chooser
 
-A simple Python script designed to randomly select a movie from a specified directory (typically an external hard drive containing movie files) and retrieve detailed information about the selected movie from the OMDb API. It provides information such as the movie's title, year of release, genre, length, director, main cast, IMDb rating, Rotten Tomatoes rating, and a plot summary, and other.
+Don't know what to watch today? Here comes Film-Chooser, a simple Python script designed to randomly select a movie from a specified directory (typically an external hard drive containing movie files) and retrieve detailed information about the selected movie from the OMDb API. It provides information such as the movie's title, year of release, genre, length, director, main cast, IMDb rating, Rotten Tomatoes rating, and a plot summary, and more.
 
 ## How to use
 
@@ -13,6 +13,6 @@ A simple Python script designed to randomly select a movie from a specified dire
 
 ## Requirements
 
-The Python standard library includes two of the required libraries, `os` and `random`, but you need to install requests: `pip install requests`.
+The Python standard library includes two of the required libraries, `os` and `random`, but you need to install `requests` with: `pip install requests`.
 
 *Script written with the help of GPT-3.5.*
