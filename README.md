@@ -13,6 +13,6 @@ A simple Python script designed to randomly select a movie from a specified dire
 
 ## Requirements
 
-The Python standard library includes two of the required libraries, os and random, but you need to install requests: `pip install requests`.
+The Python standard library includes two of the required libraries, `os` and `random`, but you need to install requests: `pip install requests`.
 
 *Script written with the help of GPT-3.5.*
